@@ -1,4 +1,4 @@
-# 2020-programming-tutorial-session
+# 2020 Programming Tutorial Session
 Playground for programming tutorial at UCL
 
 ## Members of the group
