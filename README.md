@@ -5,6 +5,7 @@ Playground for programming tutorial at UCL
 * Yangtao Ge
 * Mateusz Krawczynski
 * Thatchawin Leelawat 
+* Gabriel Turner
 
 
 ## Register
