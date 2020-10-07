@@ -6,3 +6,4 @@ Following students attend:
 * Yangtao Ge
 * Gabriel Turner
 * Thatchawin Leelawat.
+* Mateusz Krawczynski
