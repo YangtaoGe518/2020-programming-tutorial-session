@@ -5,4 +5,4 @@ We will record the attendence of programming tutorial sessions.
 Following students attend:
 * Yangtao Ge
 * Gabriel Turner
-* Gabriel Turner 2
+* Mateusz Krawczynski
