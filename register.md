@@ -13,3 +13,4 @@ Following students attend:
 Following students attend:
 * Yangtao Ge
 * Thatchawin Leelawat
+* Mateusz Krawczynski
