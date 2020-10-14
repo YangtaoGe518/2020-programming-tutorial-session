@@ -7,3 +7,7 @@ Following students attend:
 * Gabriel Turner
 * Thatchawin Leelawat.
 * Mateusz Krawczynski
+
+## 14/10/2020
+Following students attend:
+* Yangtao Ge
