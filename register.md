@@ -7,6 +7,7 @@ Following students attend:
 * Gabriel Turner
 * Thatchawin Leelawat.
 * Mateusz Krawczynski
+* Keyur Narotomo
 
 ## 14/10/2020
 Following students attend:
