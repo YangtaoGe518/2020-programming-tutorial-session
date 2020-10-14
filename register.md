@@ -12,3 +12,4 @@ Following students attend:
 ## 14/10/2020
 Following students attend:
 * Yangtao Ge
+* Gabriel Turner
