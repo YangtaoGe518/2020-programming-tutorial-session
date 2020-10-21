@@ -14,3 +14,8 @@ Following students attend:
 * Yangtao Ge
 * Thatchawin Leelawat
 * Mateusz Krawczynski
+
+## 21/10/2020
+Following students attend:
+* Yangtao Ge
+* Thatchawin Leelawat
