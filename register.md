@@ -5,7 +5,7 @@ We will record the attendence of programming tutorial sessions.
 Following students attend:
 * Yangtao Ge
 * Gabriel Turner
-* Thatchawin Leelawat.
+* Thatchawin Leelawat
 * Mateusz Krawczynski
 * Keyur Narotomo
 
@@ -15,3 +15,11 @@ Following students attend:
 * Thatchawin Leelawat
 * Mateusz Krawczynski
 * Gabriel Turner
+
+## 21/10/2020
+Following students attend:
+* Yangtao Ge
+* Thatchawin Leelawat
+* Gabriel Turner
+* Keyur Narotomo
+
