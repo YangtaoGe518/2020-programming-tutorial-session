@@ -24,3 +24,7 @@ Following students attend:
 * Gabriel Turner
 * Keyur Narotomo
 
+## 28/10/2020
+Following students attend:
+* Gabriel Turner
+
