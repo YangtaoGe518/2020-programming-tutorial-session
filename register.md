@@ -23,3 +23,9 @@ Following students attend:
 * Gabriel Turner
 * Keyur Narotomo
 
+## 28/10/2020
+Following students attend:
+* Yangtao Ge
+* Thatchawin Leelawat
+* Gabriel Turner
+* Keyur Narotomo
