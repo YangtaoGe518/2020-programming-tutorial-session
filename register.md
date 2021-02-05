@@ -29,3 +29,9 @@ Following students attend:
 * Thatchawin Leelawat
 * Gabriel Turner
 * Keyur Narotomo
+
+## 05/02/2021
+Following students attend:
+* Yangtao
+* Tim
+* Nono
